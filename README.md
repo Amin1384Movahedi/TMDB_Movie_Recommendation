@@ -1,4 +1,4 @@
-# TMDB_Movie_Recommendation
+# TMDBM Movie Recommendation
 
 <h2>About Dataset</h2>
 <p> Background: What can we say about the success of a movie before it is released? Are there certain companies (Pixar?) that have found a consistent formula? Given that major films costing over $100 million to produce can still flop, this question is more important than ever to the industry. Film aficionados might have different interests. Can we predict which films will be highly rated, whether or not they are a commercial success? </p>
@@ -20,30 +20,10 @@ Copy code
 <p>
    <strong>Additionally:</strong> This README.md file includes a table of contents for easy navigation.
 </p>
-<h2>Table of Contents</h2>
-<ul>
-   <li><a href="#background">Background</a></li>
-   <li><a href="#data-source-transfer-summary">Data Source Transfer Summary</a></li>
-   <ul>
-      <li><a href="#good-news">Good News</a></li>
-      <li><a href="#bad-news">Bad News</a></li>
-      <ul>
-         <li><a href="#bad-entries">Bad Entries</a></li>
-      </ul>
-   </ul>
-</ul>
-Copy code
-<p>
-   Note: This is a simple HTML conversion of the original markdown file. Some formatting may be lost in the conversion process.
-</p>
-<p>
-   Additionally: This HTML file includes a table of contents for easy navigation.
-</p>
+
 <p> <strong>References:</strong> </p>
 <ul>
    <li> <a href="https://www.kaggle.com/tmdb/tmdb-movie-dataset" target="_blank">TMDb Movie Dataset</a> </li>
    <li> <a href="https://www.themoviedb.org/documentation/api" target="_blank">The Movie Database API</a> </li>
    <li> <a href="https://www.imdb.com/interfaces/" target="_blank">IMDb Interface</a> </li>
 </ul>
-<p> <strong>License:</strong> </p>
-<p> The contents of this repository are covered under the <a href="https://github.com/Kaggle/tmdb-movies/blob/master
