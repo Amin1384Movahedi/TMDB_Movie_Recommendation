@@ -22,6 +22,15 @@
 </ul>
 
 <h3>Calculating Benefit per Cost or B_C for all records in our dataset</h3>
+
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit-Cost-Ratio-Formula.jpg", alt="B_C Formula"></img>
 <p>To calculate the benefit per cost obtained from each film made, we have to divide the income by the cost, and if the result is less than one, it means that the film was not profitable, and if the result is more than one, it means that the film was profitable.</p>
 <p>We can subtract the results by one and then compare it with zero.</p>
+<p>Now we can easly determine which movie is profitable or not profitable.</p>
+
+<h3>How much does it cost to make each genre of film?</h3>
+<h3>How much is the benefit of each movie genre?</h3>
+
+<p>By drawing a bar graph, it can be understood that the highest cost is required to make a movie with the action genre, and the lowest cost is required to make a movie with the "tv movie" genre.</p>
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Budget_per_Genre.png" alt="budget per genre chart"></img>
