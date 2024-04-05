@@ -23,3 +23,5 @@
 
 <h3>Calculating Benefit per Cost or B_C for all records in our dataset</h3>
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit-Cost-Ratio-Formula.jpg", alt="B_C Formula"></img>
+<p>To calculate the benefit per cost obtained from each film made, we have to divide the income by the cost, and if the result is less than one, it means that the film was not profitable, and if the result is more than one, it means that the film was profitable.</p>
+<p>We can subtract the results by one and then compare it with zero.</p>
