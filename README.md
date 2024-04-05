@@ -13,13 +13,6 @@
    <li> The revenues appear to be more current. For example, IMDB's figures for Avatar seem to be from 2010 and understate the film's global revenues by over $2 billion. </li>
    <li> Some of the movies that we weren't able to port over (a couple of hundred) were just bad entries. For example, this IMDB entry has basically no accurate information at all. It lists Star Wars Episode VII as a documentary. </li>
 </ul>
-Copy code
-<p>
-   <strong>Note:</strong> This README.md file is a HTML conversion of the original markdown file. Some formatting may be lost in the conversion process.
-</p>
-<p>
-   <strong>Additionally:</strong> This README.md file includes a table of contents for easy navigation.
-</p>
 
 <p> <strong>References:</strong> </p>
 <ul>
