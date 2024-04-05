@@ -20,3 +20,6 @@
    <li> <a href="https://www.themoviedb.org/documentation/api" target="_blank">The Movie Database API</a> </li>
    <li> <a href="https://www.imdb.com/interfaces/" target="_blank">IMDb Interface</a> </li>
 </ul>
+
+<h3>Calculating Benefit per Cost or B_C for all records in our dataset</h3>
+<img src="", alt="B_C Formula"></img>
