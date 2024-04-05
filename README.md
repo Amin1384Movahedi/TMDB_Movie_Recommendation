@@ -22,4 +22,4 @@
 </ul>
 
 <h3>Calculating Benefit per Cost or B_C for all records in our dataset</h3>
-<img src="", alt="B_C Formula"></img>
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit-Cost-Ratio-Formula.jpg", alt="B_C Formula"></img>
