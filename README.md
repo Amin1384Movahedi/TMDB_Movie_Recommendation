@@ -37,4 +37,4 @@
 
 <p>Now we will draw a bar chart for the profit obtained from the production of each genre of film.</p>
 <p> By looking at the chart, we can see that the most profitable genre is the horror genre, followed by the mystery genre and then the comedy genre.</p>
-<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Budget_per_Genre.png" alt="budget per genre chart"></img>
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart2.png" alt="B_C per genre chart"></img>
