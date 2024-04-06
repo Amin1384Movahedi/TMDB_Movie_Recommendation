@@ -33,10 +33,8 @@
 <h3>How much is the benefit of each movie genre?</h3>
 
 <p>By drawing a bar graph, it can be understood that the highest cost is required to make a movie with the action genre, and the lowest cost is required to make a movie with the "tv movie" genre.</p>
-
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Budget_per_Genre.png" alt="budget per genre chart"></img>
 
 <p>Now we will draw a bar chart for the profit obtained from the production of each genre of film.</p>
 <p> By looking at the chart, we can see that the most profitable genre is the horror genre, followed by the mystery genre and then the comedy genre.</p>
-
-<img src="‌https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit_per_Cost_per_genre.png"></img>
+<img src="‌https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit_per_Cost_per_genre.png" alt="Benef per genre chart"></img>
