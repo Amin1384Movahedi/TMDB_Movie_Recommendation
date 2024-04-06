@@ -53,3 +53,9 @@
 <p>the Silver Bullet Productions company and Blind Wink Productions Company, although these two companies are among the twenty companies with the highest investment in the film industry, they are not among the twenty companies with the highest revenue generation.</p>
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart4.png" alt="top twenty companies that eaned the most revenue." />
+
+<h3>The directors who spent the most money for the production of the film and made the most profit with the production of the film</h3>
+
+<p>Let's take a look at the directors who cost the most to produce films.</p>
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart5.png" alt="directors with most spent budget" />
