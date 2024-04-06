@@ -79,15 +79,15 @@
 
 <h3>Performing statistical operations based on the release date of the film</h3>
 
-<p>First, we make a list of the years in which more than 50 movies were released in that year.</p>
-<p>The lowest year is 1994, in which 55 films were released. and the most year is 2016, that year 104 movies were released.</p>
-<p>Now we will categorize the films between time periods with a difference of 5 years.</p>
-<p>Let's take a look at the number of movies released in these years. The highest number was between 2005-2015 and the lowest number was between 1990-1995.</p>
+<p>First, we make a list of the years in which more than 50 movies were released in that year.
+The lowest year is 1994, in which 55 films were released. and the most year is 2016, that year 104 movies were released.
+Now we will categorize the films between time periods with a difference of 5 years.
+Let's take a look at the number of movies released in these years. The highest number was between 2005-2015 and the lowest number was between 1990-1995.</p>
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart9.png" alt="years range number of movies that released" />
 
-<p>The most profitable year is between 2005-2010 and after that it is between 2010-2020.</p>
-<p>The least profitable year is between 1990-1995.</p>
+<p>The most profitable year is between 2005-2010 and after that it is between 2010-2020.
+The least profitable year is between 1990-1995.</p>
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart9.png" alt="years range B_C" />
 
@@ -95,8 +95,8 @@
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart10.png" alt="years range budget" />
 
-<p>Although the years 2015-2020 were not the most profitable years, they were the most profitable years.</p>
-<p>The years 1990-1995 were the least profitable years, but it is estimated to be the most profitable years.</p>
-<p>The years 2005-2010 had a relatively low income but a very high profit.</p>
+<p>Although the years 2015-2020 were not the most profitable years, they were the most profitable years.
+The years 1990-1995 were the least profitable years, but it is estimated to be the most profitable years.
+The years 2005-2010 had a relatively low income but a very high profit.</p>
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart11.png" alt="years range revenue" />
