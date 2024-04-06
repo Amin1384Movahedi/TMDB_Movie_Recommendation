@@ -65,3 +65,17 @@
 <p>Let's take a look at the directors who cost the most to produce films.</p>
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart6.png" alt="directors with most spent budget" />
+
+<p>Steven Spielberg, Michael Bay and Peter Jackson, These three directors have spent the most money to make the film.</p>
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart7.png" alt="directors with highest revenue" />
+
+<p>Steven Spielberg, Peter Jackson and Oren Peli, these three directors have the most revenue by makeing films.
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart8.png" alt="directors with highest B_C" />
+
+<p>Oren Peli who doesn't spent the most money for the production of the film but he made the most profit with the production of the film. Therefore, this director is the most profitable director.</p>
+<p>This director was not included in any of the lists of directors with the highest cost and directors with the highest income generation, but still he was the most profitable director.</p>
+
+Edward Bums
+Eduardo Sanchez
