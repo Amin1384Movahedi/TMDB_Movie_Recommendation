@@ -70,12 +70,15 @@
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart7.png" alt="directors with highest revenue" />
 
-<p>Steven Spielberg, Peter Jackson and Oren Peli, these three directors have the most revenue by makeing films.
+<p>Steven Spielberg, Peter Jackson and James Cameron, these three directors have the most revenue by makeing films.
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart8.png" alt="directors with highest B_C" />
 
 <p>Oren Peli who doesn't spent the most money for the production of the film but he made the most profit with the production of the film. Therefore, this director is the most profitable director.</p>
 <p>This director was not included in any of the lists of directors with the highest cost and directors with the highest income generation, but still he was the most profitable director.</p>
 
-Edward Bums
-Eduardo Sanchez
+<h3>Performing statistical operations based on the release date of the film</h3>
+
+<p>First, we make a list of the years in which more than 50 movies were released in that year.</p>
+<p>The lowest year is 1994, in which 55 films were released. and the most year is 2016, that year 104 movies were released.</p>
+<p>Now we will categorize the films between time periods with a difference of 5 years.</p>
