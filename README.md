@@ -23,7 +23,7 @@
 
 <h3>Calculating Benefit per Cost or B_C for all records in our dataset</h3>
 
-<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit-Cost-Ratio-Formula.jpg" alt="B_C Formula"></img>
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit-Cost-Ratio-Formula.jpg" alt="B_C Formula" />
 
 <p>To calculate the benefit per cost obtained from each film made, we have to divide the income by the cost, and if the result is less than one, it means that the film was not profitable, and if the result is more than one, it means that the film was profitable.</p>
 <p>We can subtract the results by one and then compare it with zero.</p>
@@ -33,8 +33,23 @@
 <h3>How much is the benefit of each movie genre?</h3>
 
 <p>By drawing a bar graph, it can be understood that the highest cost is required to make a movie with the action genre, and the lowest cost is required to make a movie with the "tv movie" genre.</p>
-<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Budget_per_Genre.png" alt="budget per genre chart"></img>
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Budget_per_Genre.png" alt="budget per genre chart" />
 
 <p>Now we will draw a bar chart for the profit obtained from the production of each genre of film.</p>
 <p> By looking at the chart, we can see that the most profitable genre is the horror genre, followed by the mystery genre and then the comedy genre.</p>
-<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart2.png" alt="B_C per genre chart"></img>
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart2.png" alt="B_C per genre chart" />
+
+<h3>Top twenty companies that spend the most money on film production and earned the most revenue.</h3>
+
+<p>Now let's take a look at the twenty companies that spend the most money on film production.</p>
+<p>In the beginning, the Prime Focus company is the first, after that the Silver Bullet Productions and the third company is Blind Wink Productions Company.</p>
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart3.png" alt="Top twenty Companies that spend the most money on film production." />   
+
+<p>Now, by looking at the chart of top twenty companies that earned the most revenue between all of the movie companies, we can realise that Colorado Office of File, Television & Media is the first and the second company is Quebec Production Services Tax Credit and the third is Prime Focus</p>
+<p>Due to the fact that the company has made the main focus of the second investment in the production of films, but it has not had the highest income and it has been the third company in generating income.</p>
+<p>the Silver Bullet Productions company and Blind Wink Productions Company, although these two companies are among the twenty companies with the highest investment in the film industry, they are not among the twenty companies with the highest revenue generation.</p>
+
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart4.png" alt="top twenty companies that eaned the most revenue." />
