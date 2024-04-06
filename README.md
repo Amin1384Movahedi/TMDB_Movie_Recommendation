@@ -56,7 +56,7 @@
 
 <p>Even though these three companies were among the most profitable companies, but they were not among the most profitable companies, it may be because they had more expenses in addition to the large income they had.</p>
 
-<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart6.png" alt="top twenty companies with highest B_C" />
+<img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart5.png" alt="top twenty companies with highest B_C" />
 
 <p>Blumhouse Productions and Solana Films, these two companies have been among the most profitable companies, but they are not among the top 20 companies with the most profits, it may be because they have relatively lower income than the rest of the companies, but their costs are much lower than the rest of the companies have spent.</p>
 
@@ -65,13 +65,3 @@
 <p>Let's take a look at the directors who cost the most to produce films.</p>
 
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/chart6.png" alt="directors with most spent budget" />
-
-Steven Spielberg
-Michael Bay
-Peter Jackson
-
-James Cameron
-
-Oren Peli
-Edward Bums
-Eduardo Sanchez
