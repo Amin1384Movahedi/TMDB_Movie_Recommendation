@@ -26,8 +26,9 @@
 <img src="https://github.com/Amin1384Movahedi/TMDB_Movie_Recommendation/blob/main/assets/Benefit-Cost-Ratio-Formula.jpg" alt="B_C Formula" />
 
 <p>To calculate the benefit per cost obtained from each film made, we have to divide the income by the cost, and if the result is less than one, it means that the film was not profitable, and if the result is more than one, it means that the film was profitable.</p>
-<p>We can subtract the results by one and then compare it with zero.</p>
-<p>Now we can easly determine which movie is profitable or not profitable.</p>
+<p>We can subtract the results by one and then compare it with zero.
+Now we can easly determine which movie is profitable or not profitable.</p>
+<p>It is possible to examine the films that were not profitable and find the reason for their non-profitability, the mistakes in the film and the director's mistakes in order to avoid these mistakes in order to make a new film.</p>
 
 <h3>How much does it cost to make each genre of film?</h3>
 <h3>How much is the benefit of each movie genre?</h3>
